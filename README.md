@@ -1,4 +1,4 @@
-# The Blue Dragon Web Player (UNITY)
+# The Blue Dragon (UNITY)
 A simple video game of a blue dragon fighting against its enemies, red dragons.
 
 
