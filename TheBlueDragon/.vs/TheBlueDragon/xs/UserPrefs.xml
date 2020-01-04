@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8225D335-3E3C-9CFE-A5E2-C4AD9EF225D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DragonKiller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DragonKiller.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheBlueDragon" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DragonKiller.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f2d5f827-4c0c-4859-8a42-d3a56b61a39c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
