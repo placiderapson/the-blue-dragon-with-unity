@@ -2,9 +2,10 @@
 
 public class Shooter : MonoBehaviour
 {
+    // Initialize the field
     public GameObject projectilePrefab;
 
-    // Update is called once per frame
+    // Method for shooting the fireball out of the blue dragon
     void Update()
     {
         if (Input.GetButtonDown("Fire1") || Input.GetKeyDown(KeyCode.Space))

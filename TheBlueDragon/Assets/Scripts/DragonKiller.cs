@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class DragonKiller : MonoBehaviour
 {
 
-    // Update is called once per frame
+    // Kill the blue dragon whenever he goes beyond the screen view port or collides with the red dragons or stumps
     void Update()
     {
         if(transform.position.y > 5.75)

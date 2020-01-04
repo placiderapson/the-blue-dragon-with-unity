@@ -2,9 +2,10 @@
 
 public class Jump : MonoBehaviour
 {
+    // Initialize the field
     public Vector2 JumpForce;
 
-    // Update is called once per frame
+    // Jumping the blue dragon whenever left-clicked or spacebar key is pressed and play the jump sound at the same time
     void Update()
     {
         if(Input.GetButtonDown("Fire1") || Input.GetKeyDown(KeyCode.Space))
