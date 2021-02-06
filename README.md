@@ -10,5 +10,5 @@ A simple video game of a blue dragon fighting against its enemies, red dragons.
 
 ### Play The Game
 
-`https://simmer.io/@placideirandora/thebluedragon`
+https://simmer.io/@placideirandora/thebluedragon
 
